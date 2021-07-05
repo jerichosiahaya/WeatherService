@@ -1,0 +1,1 @@
+This is just a sample web api made with .NET 5 Framework. I added an Identity Authentication using ASP JwtBearer Auth package. You can get the access token using [Authentication service](https://github.com/jerichosiahaya/AuthService). I recommended you to use the [API Gateway](https://github.com/jerichosiahaya/OcelotAPIGateway) as the middleman between both services.
